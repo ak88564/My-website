@@ -1,0 +1,49 @@
+.topMost{
+    /*background-color: red;*/
+    /*width: 800px;*/
+    height: 180px;
+    border-bottom: 1px grey solid;
+}
+#circle{
+    width: 200px;
+    height: 200px;
+    border: 2px grey solid;
+    /*background: blue;*/
+    /* -webkit-border-radius: 100px;
+    -moz-border-radius: 100px; */
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+#profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: -0.1px;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+
+}
+.line{
+    height: 12px;
+    width: 550px;
+    border-bottom: 1px grey solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    color: grey;
+}
+h3{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cover{
+    width: 645px;
+    height: 180px;
+}
