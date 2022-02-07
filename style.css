@@ -48,14 +48,43 @@ h1{
     height: 180px;
 }
 #twitterlogo{
-    width: 70px;
-    height: 70px;
-    
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+    /* display: block;
+    margin-left: auto; */
     /* transform: translate(-40%, -50%); */
 }
+#instagramLogo{
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+    /* display: block;
+    float: left;
+    margin-left: auto; */
+}
+#linkedinLogo{
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+}
+#mailLogo{
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+}
+#githubLogo{
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+}
 #logos{
+    /* display: flex;
+    justify-content: center; */
 
+}
+.row{
+    float: left;
+    width: 19%;
+    padding: 5px;
 }
